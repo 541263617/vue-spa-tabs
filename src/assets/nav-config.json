@@ -1,0 +1,201 @@
+[
+  {
+    "code": "101",
+    "name": "类目管理",
+    "path": "category",
+    "children": [
+      {
+        "code": "10101",
+        "name": "品牌管理",
+        "path": "/supply/index.html#menu/brandList"
+      },
+      {
+        "code": "10102",
+        "name": "属性管理",
+        "path": "/supply/index.html#menu/propertyList"
+      },
+      {
+        "code": "10103",
+        "name": "分类管理",
+        "path": "/supply/index.html#menu/categoryList"
+      }
+    ]
+  },
+  {
+    "code": "102",
+    "name": "商品管理",
+    "path": "goods",
+    "children": [
+      {
+        "code": "10201",
+        "name": "自采商品管理",
+        "path": "/supply/index.html#menu/goodsList"
+      },
+      {
+        "code": "10202",
+        "name": "代发商品管理",
+        "path": "/supply/index.html#menu/externalGoodsList"
+      },
+      {
+        "code": "20101",
+        "name": "商品查询",
+        "path": "/supply/index.html#menu/goodsQuery"
+      }
+    ]
+  },
+  {
+    "code": "103",
+    "name": "供应链管理",
+    "path": "suppliers",
+    "children": [
+      {
+        "code": "10301",
+        "name": "供应链管理",
+        "path": "/supply/index.html#menu/supplierList"
+      },
+      {
+        "code": "20201",
+        "name": "供应链申请",
+        "path": "/supply/index.html#menu/supplierApplyList"
+      },
+      {
+        "code": "10302",
+        "name": "供应链申请审批",
+        "path": "/supply/index.html#menu/supplierApplyAuditList"
+      }
+    ]
+  },
+  {
+    "code": "203",
+    "name": "采购管理",
+    "path": "procurement",
+    "children": [
+      {
+        "code": "20301",
+        "name": "采购组管理",
+        "path": "/supply/index.html#menu/purchaseGroupList"
+      },
+      {
+        "code": "20302",
+        "name": "采购单管理",
+        "path": "purchase-order",
+        "self": true
+      },
+      {
+        "code": "20303",
+        "name": "采购单审核",
+        "path": "/supply/index.html#menu/purchaseOrderAuditList"
+      },
+      {
+        "code": "20304",
+        "name": "入库通知单管理",
+        "path": "/supply/index.html#menu/warehouseAdviceList"
+      }
+    ]
+  },
+  {
+    "code": "204",
+    "name": "订单管理",
+    "path": "orders",
+    "children": [
+      {
+        "code": "20401",
+        "name": "订单管理",
+        "path": "/supply/index.html#menu/shopOrderList"
+      },
+      {
+        "code": "20402",
+        "name": "供应商订单",
+        "path": "supplier-order",
+        "self": true
+      },
+      {
+        "code": "20403",
+        "name": "发货通知单管理",
+        "path": "/supply/index.html#menu/outboundOrderList"
+      },
+      {
+        "code": "20404",
+        "name": "拆单异常管理",
+        "path": "/supply/index.html#menu/nonOrderList"
+      }
+    ]
+  },
+  {
+    "code": "206",
+    "name": "仓储管理",
+    "path": "warehousing",
+    "children": [
+      {
+        "code": "20601",
+        "name": "仓库信息管理",
+        "path": "/supply/index.html#menu/warehouseManage"
+      }
+    ]
+  },
+  {
+    "code": "205",
+    "name": "财务管理",
+    "path": "finance",
+    "children": [
+      {
+        "code": "20501",
+        "name": "京东代发财务管理",
+        "path": "jd-manage",
+        "self": true
+      },
+      {
+        "code": "20502",
+        "name": "粮油代发报表",
+        "path": "/supply/index.html#menu/LyFinancialMng"
+      }
+    ]
+  },
+  {
+    "code": "104",
+    "name": "系统管理",
+    "path": "system",
+    "children": [
+      {
+        "code": "10401",
+        "name": "仓库管理",
+        "path": "/supply/index.html#menu/warehouseList"
+      },
+      {
+        "code": "10402",
+        "name": "渠道管理",
+        "path": "/supply/index.html#menu/channelList"
+      },
+      {
+        "code": "10403",
+        "name": "授权管理",
+        "path": "/supply/index.html#menu/userAccreditInfoList"
+      },
+      {
+        "code": "10404",
+        "name": "字典类型管理",
+        "path": "/supply/index.html#menu/dictTypeList"
+      },
+      {
+        "code": "10405",
+        "name": "字典管理",
+        "path": "/supply/index.html#menu/dictList"
+      },
+      {
+        "code": "10406",
+        "name": "资源管理",
+        "path": "/supply/index.html#menu/resourceManage"
+      },
+      {
+        "code": "10407",
+        "name": "开发补偿",
+        "path": "/supply/index.html#menu/compensation"
+      },
+      {
+        "code": "10408",
+        "name": "仓库配置管理",
+        "path": "/supply/index.html#menu/warehouseConfig"
+      }
+    ]
+  }
+]
